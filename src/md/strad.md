@@ -1,0 +1,1 @@
+It has 4 strings. It is a brown color. 
